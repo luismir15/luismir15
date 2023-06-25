@@ -7,8 +7,8 @@ I’m software engineer with recent experience building Microservices oriented a
 
 ## 🧰 Languages and tools
 
-- Languages: Java, JavaScript, TypeScript
-- Backend: Spring, PostgreSQL, MongoDB
+- Languages: Java, JavaScript, TypeScript (Learning: Kotlin, Dart, Go)
+- Backend: Spring, NodeJS, PostgreSQL, MongoDB
 - Frontend: Angular, Ember
 
 ## 🌱 Learning path
