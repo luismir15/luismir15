@@ -2,7 +2,7 @@
 
 # 👋 Hi, I’m Luis
 
-I’m software engineer with recent experience building Microservices oriented applications. From an early age, I had a great interest in software technology. One of my main motivations to be software engineer is to build strong and complex applications for people to enjoy. I also enjoy collaborating with other engineers to share my skills and knowledge, while also learning from them. Aside from professional development, you can find me working on technical blogs and learning new frameworks or technologies. 
+I’m Software Engineer at PilotoMail. From an early age, I had a great interest in software technology. One of my main motivations to persue this career is to build strong and complex applications for people to enjoy. I also enjoy collaborating with others and share my skills and knowledge, while also learning from them. Aside from professional development, you can find me working on technical blogs and learning technologies. 
 
 
 ## 🧰 Languages and tools
@@ -13,7 +13,7 @@ I’m software engineer with recent experience building Microservices oriented a
 
 ## 🌱 Learning path
 
-Currently learning KoaJS and EmberJS. Also taking a look at Terraform to enhance my DevOps experience. 
+Currently learning Swift and Dart for mobile development. 
 
 ## 📫 How to reach me
 
